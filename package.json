@@ -1,0 +1,8 @@
+{
+  "name": "supercar-jesko",
+  "version": "1.0.0",
+  "description": "Koenigsegg Jesko Cinematic Experience",
+  "scripts": {
+    "build": "node build.js"
+  }
+}
